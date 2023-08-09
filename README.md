@@ -4,7 +4,7 @@
 
 Enthusiast of the best backend developement technologies.
 
-19 years old | | Backend Developer | | Python | | Django | | Flask | | Sql
+21 years old | | Backend Developer | | Python | | Django | | Flask | | Sql
 
 ![Bruno GitHub stats](https://github-readme-stats.vercel.app/api?username=BrunoAguiar-A&show_icons=true&theme=dark)
 
